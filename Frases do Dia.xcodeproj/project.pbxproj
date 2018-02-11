@@ -12,6 +12,9 @@
 		63A80249202FC5D10079A4BE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 63A80247202FC5D10079A4BE /* Main.storyboard */; };
 		63A8024B202FC5D10079A4BE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63A8024A202FC5D10079A4BE /* Assets.xcassets */; };
 		63A8024E202FC5D10079A4BE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 63A8024C202FC5D10079A4BE /* LaunchScreen.storyboard */; };
+		63A80258202FC5E60079A4BE /* aspas-direita.png in Resources */ = {isa = PBXBuildFile; fileRef = 63A80255202FC5E60079A4BE /* aspas-direita.png */; };
+		63A80259202FC5E60079A4BE /* aspas-esquerda.png in Resources */ = {isa = PBXBuildFile; fileRef = 63A80256202FC5E60079A4BE /* aspas-esquerda.png */; };
+		63A8025A202FC5E60079A4BE /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 63A80257202FC5E60079A4BE /* logo.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		63A8024A202FC5D10079A4BE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		63A8024D202FC5D10079A4BE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		63A8024F202FC5D10079A4BE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		63A80255202FC5E60079A4BE /* aspas-direita.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "aspas-direita.png"; sourceTree = "<group>"; };
+		63A80256202FC5E60079A4BE /* aspas-esquerda.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "aspas-esquerda.png"; sourceTree = "<group>"; };
+		63A80257202FC5E60079A4BE /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +60,9 @@
 		63A80242202FC5D10079A4BE /* Frases do Dia */ = {
 			isa = PBXGroup;
 			children = (
+				63A80255202FC5E60079A4BE /* aspas-direita.png */,
+				63A80256202FC5E60079A4BE /* aspas-esquerda.png */,
+				63A80257202FC5E60079A4BE /* logo.png */,
 				63A80243202FC5D10079A4BE /* AppDelegate.swift */,
 				63A80245202FC5D10079A4BE /* ViewController.swift */,
 				63A80247202FC5D10079A4BE /* Main.storyboard */,
@@ -125,7 +134,10 @@
 			files = (
 				63A8024E202FC5D10079A4BE /* LaunchScreen.storyboard in Resources */,
 				63A8024B202FC5D10079A4BE /* Assets.xcassets in Resources */,
+				63A8025A202FC5E60079A4BE /* logo.png in Resources */,
 				63A80249202FC5D10079A4BE /* Main.storyboard in Resources */,
+				63A80258202FC5E60079A4BE /* aspas-direita.png in Resources */,
+				63A80259202FC5E60079A4BE /* aspas-esquerda.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
